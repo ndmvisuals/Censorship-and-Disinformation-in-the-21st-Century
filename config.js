@@ -302,7 +302,7 @@ bearing: 0.00
       image:
         "https://raw.githubusercontent.com/ndmvisuals/censorship-and-disinformation-in-the-21st-century/main/photos/Myanmar%202.jpg",
       description:
-        "<p>Photograph: K.m. Asad/AFP/Getty Images</p> Since it first arrived in the nation in 2012, Facebook in Myanmar has been conflated with the Internet by its residents. The platform’s newsfeed algorithm has been blamed for fueling hate speech, discrimination and violence against the Rohingya people. Propaganda led against the group by military leaders and members using fake accounts went largely undetected by the platform and was designed to be incendiary. The social media company acknowledged in 2018 that it was too slow to act in Myanmar, after hundreds of thousands of Rohingya had already fled. Facebook is now being sued by Rohingya refugees for over $150 billion for its role in the persecution and genocide of the group.",
+        "Photograph: K.m. Asad/AFP/Getty Images Since it first arrived in the nation in 2012, Facebook in Myanmar has been conflated with the Internet by its residents. The platform’s newsfeed algorithm has been blamed for fueling hate speech, discrimination and violence against the Rohingya people. Propaganda led against the group by military leaders and members using fake accounts went largely undetected by the platform and was designed to be incendiary. The social media company acknowledged in 2018 that it was too slow to act in Myanmar, after hundreds of thousands of Rohingya had already fled. Facebook is now being sued by Rohingya refugees for over $150 billion for its role in the persecution and genocide of the group.",
       location: {
         center: { lon: 92.77758, lat: 20.80319 },
 zoom: 7.45,
