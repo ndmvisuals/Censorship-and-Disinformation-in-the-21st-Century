@@ -16,7 +16,7 @@ var config = {
       title: "Intro",
       image: "https://raw.githubusercontent.com/ndmvisuals/Censorship-and-Disinformation-in-the-21st-Century/main/photos/MerrillCollegeLogo.png",
       description:
-        "Disinformation and censorship are the weapons of choice in the war for political power. Leaders in both democratic and authoritarian countries use the internet, social media and bots to control the flow of information. The following interactive map summarizes some of the main themes and events covered in Dana Priest's class at the Philip Merrill College of Journalism. By understanding the history of disinformation and the tools used today to spread it, journalists will be better prepared when the freedom of the press is threatened. ",
+        "Disinformation and censorship are the weapons of choice in the war for political power. Leaders in both democratic and authoritarian countries use the internet, social media and bots to control the flow of information. The following interactive map summarizes some of the main themes and events covered in Dana Priest's class at the Philip Merrill College of Journalism. By understanding the history of disinformation and the tools used today to spread it, journalists will be better prepared against attacks on the freedom of the press.",
       location: {
         center: { lon: 64.19013, lat: 0.00000 },
 zoom: 1.37,
