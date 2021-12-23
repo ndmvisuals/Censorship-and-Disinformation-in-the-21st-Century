@@ -8,7 +8,7 @@ var config = {
   title: "Censorship and Disinformation in the 21st Century ",
   subtitle: "The New Global War for Political Power",
   byline:
-    "By Nicholas McMillan, Glory Ngwe, Natalie Drum, Brittany Gaddy, Jack White",
+    "By Nicholas McMillan, Glory Ngwe, Natalie Drum, Brittany Gaddy, Jack White, Kelly Livingston",
   footer: "Source: Class of Dana Priest",
   chapters: [
     {
