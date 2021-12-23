@@ -7,11 +7,11 @@ Disinformation and censorship are the weapons of choice in the war for political
 ## Project Description
 This was a final project done for Dana Priest's class JOUR459T: Censorship and Disinformation: The New Global War for Political Power for the Fall 2021 semester. It summarizes some of the main themes and events covered in class in an interactive experience. 
 
-Nick McMillan created the interactive map using Matchbox and Glitch. He used this [tutorial] (https://blog.glitch.com/post/how-to-build-a-scrollytelling-map-using-mapbox-and-glitch) to learn how to put everything together. 
+Nick McMillan created the interactive map using Matchbox and Glitch. He used this [tutorial](https://blog.glitch.com/post/how-to-build-a-scrollytelling-map-using-mapbox-and-glitch) to learn how to put everything together. 
 
 Glory Ngwe, Natalie Drum, Brittany Gaddy, Jack White and Kelly Livingston wrote the text. 
 
-The interactive map can be accessed [here] (https://ndmvisuals.github.io/censorship-and-disinformation-in-the-21st-century/)
+The interactive map can be accessed [here](https://ndmvisuals.github.io/censorship-and-disinformation-in-the-21st-century/)
 
 The full text and sources used for research are below:
 
