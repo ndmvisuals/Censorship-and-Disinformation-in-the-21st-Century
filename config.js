@@ -116,7 +116,7 @@ bearing: -1.08
     {
       id: "Estonia 2",
       title:
-        "The disinformation campaign (Russia’s first foreign disinformation operation in Estonia)",
+        "Russia’s first foreign disinformation operation in Estonia",
       image:
         "https://raw.githubusercontent.com/ndmvisuals/Censorship-and-Disinformation-in-the-21st-Century/main/photos/Estonian%20police%20clash%20with%20pro-Russian%20demonstrators.jpg",
       description:
